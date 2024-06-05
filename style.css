@@ -51,6 +51,7 @@ nav .home-link{
 
 nav svg{
     fill: var(--text-color);
+    cursor:pointer;
 }
 
 #sidebar-active{
